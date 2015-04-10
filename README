@@ -1,4 +1,10 @@
+Pagerank:
+
 Download Data from http://snap.stanford.edu/data/cit-HepTh.html. The data was not included because it exceeded the 10MB limit. To find the titles corresponding to an id, download the paper abstracts file and search the year folders for the id. It will be a file in the form of [id].abs.
 
 To run the code, compile it then run it:
 >>> javac pr.java ; java pr
+
+Midterm Answer Check:
+
+Wrote small program to check answer.
